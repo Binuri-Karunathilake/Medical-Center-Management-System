@@ -36,8 +36,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Learn more">Learn More</a></li>
   </ol>
 </details>
 
@@ -54,7 +53,7 @@ details and contact information are stored and used by the system. The primary g
 are to help manage the day-to-day facilities of the center as well as provide business data to the 
 stakeholders of the institution through analysis and detailed reports.</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## Built With
 
@@ -70,18 +69,72 @@ This section shows the list of major technologies that we have used to built our
 
 ## Getting Started
 ### Prerequisites
+
+* Downloading and installing Node.js and npm
+  ```sh
+  npm install -g npm
+  ```
+* Checking your version of npm and Node.js
+  ```sh
+  node -v
+  npm -v
+  ```
 ### Installation
 
+* Clone the `Medical-Center-Management-System` repository
+  ```bash
+  git clone https://github.com/Binuri-Karunathilake/Medical-Center-Management-System.git
+  ```
+
+* Install package dependencies
+
+  In the `root` directory, run:
+
+  ```bash
+  npm install
+  ```
+
+* Start development servers
+  ```bash
+  npm start
+  ```
+
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-## Usage
+## Learn more
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
-## Acknowledgments
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 
