@@ -72,7 +72,7 @@ This section shows the list of major technologies that we have used to built our
 
 * Downloading and installing Node.js and npm
   ```sh
-  npm install -g npm
+  npm install
   ```
 * Checking your version of npm and Node.js
   ```sh
